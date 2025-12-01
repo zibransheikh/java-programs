@@ -1,4 +1,4 @@
-public class tt {
+public class tables {
     public static void main(String[] args) {
         
         int i ;
@@ -12,3 +12,4 @@ public class tt {
 
     }
 }
+

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-public class bhuvan {
+public class q2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
@@ -16,3 +16,4 @@ public class bhuvan {
 
     }
 }
+
